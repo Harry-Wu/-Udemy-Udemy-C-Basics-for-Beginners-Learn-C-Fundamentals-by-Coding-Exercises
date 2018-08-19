@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_HelloWord", "01_HelloWord\01_HelloWord.csproj", "{B192CB95-F7DE-4959-B510-1449C9664C08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundPlayerClass", "SoundPlayerClass\SoundPlayerClass.csproj", "{6EFB5FD4-9AC4-4DD2-A09A-5B60207490DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B192CB95-F7DE-4959-B510-1449C9664C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B192CB95-F7DE-4959-B510-1449C9664C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B192CB95-F7DE-4959-B510-1449C9664C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B192CB95-F7DE-4959-B510-1449C9664C08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EFB5FD4-9AC4-4DD2-A09A-5B60207490DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFB5FD4-9AC4-4DD2-A09A-5B60207490DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFB5FD4-9AC4-4DD2-A09A-5B60207490DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFB5FD4-9AC4-4DD2-A09A-5B60207490DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1EA9120-41AD-4758-B696-A515DA112F5E}
+	EndGlobalSection
+EndGlobal
