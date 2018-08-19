@@ -1,1 +1,1 @@
-# -Udemy-Udemy-C-Basics-for-Beginners-Learn-C-Fundamentals-by-Coding-Exercises
+# The Exercises for the Udemy Course: C-Basics-for-Beginners-Learn-C-Fundamentals-by-Coding
