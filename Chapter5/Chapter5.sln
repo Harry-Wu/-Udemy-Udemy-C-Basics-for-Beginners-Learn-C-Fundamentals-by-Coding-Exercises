@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If-else", "If-else\If-else.csproj", "{62C9500B-CFFD-4AD9-A33F-E0DB8483A553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional", "Conditional\Conditional.csproj", "{289D74EC-B7E4-4147-9AF4-D535ED083425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch-case", "Switch-case\Switch-case.csproj", "{97EAFB8F-F879-4A32-ADAF-510DB2A8F3C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62C9500B-CFFD-4AD9-A33F-E0DB8483A553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C9500B-CFFD-4AD9-A33F-E0DB8483A553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C9500B-CFFD-4AD9-A33F-E0DB8483A553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C9500B-CFFD-4AD9-A33F-E0DB8483A553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{289D74EC-B7E4-4147-9AF4-D535ED083425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289D74EC-B7E4-4147-9AF4-D535ED083425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289D74EC-B7E4-4147-9AF4-D535ED083425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289D74EC-B7E4-4147-9AF4-D535ED083425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97EAFB8F-F879-4A32-ADAF-510DB2A8F3C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97EAFB8F-F879-4A32-ADAF-510DB2A8F3C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97EAFB8F-F879-4A32-ADAF-510DB2A8F3C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97EAFB8F-F879-4A32-ADAF-510DB2A8F3C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B14C0353-9584-450A-9AE4-A5A69EB1ACA4}
+	EndGlobalSection
+EndGlobal
